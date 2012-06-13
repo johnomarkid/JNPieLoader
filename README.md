@@ -3,7 +3,7 @@ JNPieLoader
 
 A pie loader for iOS
 
-[<img src="https://github.com/nicholjs/JNPieLoader/blob/master/piescreenshot.png?raw=true" width="300" height="187"/>](https://github.com/nicholjs/JNPieLoader/blob/master/piescreenshot.png)
+[<img src="https://github.com/nicholjs/JNPieLoader/blob/master/piescreenshot.png?raw=true" width="40" height="40"/>](https://github.com/nicholjs/JNPieLoader/blob/master/piescreenshot.png)
 
 See a screenshot of the default loader in the piescreenshot.png file, or check it out on my [blog](http://nicholjs.com/post/24228867084/i-created-a-simple-pie-loader-for-ios-fork-it).
 
