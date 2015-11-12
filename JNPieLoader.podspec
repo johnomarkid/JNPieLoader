@@ -1,10 +1,10 @@
-Pod::Spec do |s|
+Pod::Spec.new do |s|
 	s.name = 'JNPieLoader'
 	s.version = '0.1.0'
 	s.summary = 'A pie loader for iOS'
 
 	s.authors = {
-		'azzikid' => 'john@bitfountain.io'
+		'azzikid' => 'john@bitfountain.io',
 		'timominous' => 'timominous@gmail.com'
 	}
 
@@ -16,5 +16,5 @@ Pod::Spec do |s|
 	s.resources = ['Assets/FeedBlankStatusButton*.png']
 
 	s.requires_arc = true
-	s.preserves_paths = '*'
+	s.preserve_paths = '*'
 end
